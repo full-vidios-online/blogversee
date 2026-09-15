@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://vip.mixclips.top/mix44vip/?utm_source=Saim&utm_medium=Saim100`
+					`https://kajervisa.com/10-best-life-insurance-companies/`
 				}`,
 			},
 		};
